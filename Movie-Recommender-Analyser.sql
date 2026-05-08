@@ -180,8 +180,7 @@ ORDER BY COUNT(*) DESC;
 
 
 
-#4. Analyze user behavior patterns
-# 4.a) each user's activity summary
+#4. Analyze user behavior patterns- each user's activity summary
 SELECT 
     u.user_id,
     u.name,
